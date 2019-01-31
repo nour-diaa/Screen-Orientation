@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+<img src=https://github.com/mohamed0fadel/Screen-Orientation/blob/master/screenshots/Screenshot_1548933083.png width="300 "/>
+
+
+<img src=https://github.com/mohamed0fadel/Screen-Orientation/blob/master/screenshots/Screenshot_1548933089.png width="550"/>
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
